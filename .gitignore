@@ -33,3 +33,7 @@ Thumbs.db
 .env
 .env.auth
 .env.assume
+
+#Keypair
+keys/
+keys/*.pem
