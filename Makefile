@@ -1,7 +1,7 @@
 
 export PATH_DEPLOY=.deploy
 export APP_NAME=laravel
-export ECR_ACCOUNT=510139739254
+export ECR_ACCOUNT=000000000000
 export AWS_DEFAULT_REGION=us-east-1
 export CONTAINER_PORT=80
 export MEMORY?=1024
